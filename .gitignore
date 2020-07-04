@@ -1,0 +1,6 @@
+*.pem
+*.pki
+*.cert
+*.keys
+*.rsa
+node_modules
